@@ -1,118 +1,29 @@
 {
   "VALENTINE!": {
-    "Reward": [
-      "STOMP_EFFECT",
-      "STOMP_EFFECT",
-      "STREAK_EFFECT",
-      "STREAK_EFFECT",
-      "CRATE",
-      "CRATE",
-      "CRATE",
-      "CRATE",
-      "CRATE",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      10
-    ]
+    "Reward": ["STOMP_EFFECT", "STOMP_EFFECT", "STREAK_EFFECT", "STREAK_EFFECT", "CRATE", "CRATE", "CRATE", "CRATE", "CRATE", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", 10]
   },
   "BULLETFX": {
-    "Reward": [
-      "BULLET_COLOR",
-      "BULLET_COLOR",
-      "BULLET_COLOR",
-      "BULLET_COLOR",
-      "BULLET_COLOR",
-      "BULLET_COLOR",
-      "BULLET_COLOR",
-      "BULLET_COLOR",
-      "BULLET_COLOR",
-      "BULLET_COLOR",
-      2
-    ]
+    "Reward": ["BULLET_COLOR", "BULLET_COLOR", "BULLET_COLOR", "BULLET_COLOR", "BULLET_COLOR", "BULLET_COLOR", "BULLET_COLOR", "BULLET_COLOR", "BULLET_COLOR", "BULLET_COLOR", 2]
   },
   "HOTFIX1": {
-    "Reward": [
-      "STOMP_EFFECT",
-      5
-    ]
+    "Reward": ["STOMP_EFFECT", 5]
   },
   "VALENTINESDAY!": {
-    "Reward": [
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      2
-    ]
+    "Reward": ["VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", 2]
   },
   "VALENTINE2!": {
     "Reward": [
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
+      "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL",
+      "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL",
+      "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL",
+      "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL",
+      "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL",
       "CHRONO_POINTS",
-      "Crate",
-      "Crate",
-      "Crate",
-      "Crate",
-      "Crate",
-      "Crate",
-      "Crate",
-      "Crate",
-      "Crate",
-      "Crate"
-      2
+      "Crate", "Crate", "Crate", "Crate", "Crate",
+      "Crate", "Crate", "Crate", "Crate", "Crate"
     ]
   },
   "HOTFIX2": {
-    "Reward": [
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      "VARIANT_ROLL",
-      2
-    ]
+    "Reward": ["VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", "VARIANT_ROLL", 2]
   }
 }
