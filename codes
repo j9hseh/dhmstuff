@@ -5,6 +5,9 @@
   "EASTEREVENT": {
     "Reward": ["EGG100","EGG100","EGG100","EGG100","EGG100","EGG1000"]
   },
+  "EASTERP2": {
+    "Reward": ["EGG1000","EGG1000"]
+  },
   "EGGS4U": {
     "Reward": ["EGG1000","EGG1000"]
   },
